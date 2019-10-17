@@ -1,2 +1,2 @@
 # examples
-Basic Login System with out JBDC
+Basic Login System with out JDBC
